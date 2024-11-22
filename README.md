@@ -1,3 +1,3 @@
-## SHANKAR BOT
-## SHANKAR-PROJECT 
-## TISH BOT IS MADE BY SMART SHANKAR 
+## 𝘿𝙠-𝘽𝙤𝙩
+## 𝘿𝙝𝙖𝙧𝙢𝙚𝙣𝙙𝙧𝙖 𝙥𝙧𝙤𝙟𝙚𝙘𝙩
+## TISH BOT IS MADE BY 𝘿𝙝𝙖𝙧𝙢𝙚𝙣𝙙𝙧𝙖 DK
