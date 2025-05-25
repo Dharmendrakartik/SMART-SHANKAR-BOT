@@ -1,4 +1,4 @@
-# SHANKAR PROJECT:
+# 𝘿𝙃𝘼𝙍𝙈𝙀𝙉𝘿𝙍𝘼 𝙋𝙍𝙊𝙅𝙀𝘾𝙏:
 
 🎆
 
@@ -19,32 +19,32 @@ This package require NodeJS 14.17.0 to work properly.
 Original Project(Deprecated): https://github.com/SHANKAR-PROJECT/fca-smart-shankar
 
 
-SHANKAR-PROJECT(22/11/2024)
+DHARMENDRA-PROJECT(22/11/2024)
 
 ## Support For : 
 
 + Support English, India !,
 + All bot if using listenMqtt first.
 
-# fca-smart-shankar ChatBot Messenger
+# fca-smart-𝑫𝑯𝑨𝑹𝑴𝑬𝑵𝑫𝑹𝑨 ChatBot Messenger
 
 ```bash
-npm i fca-smart-shankar
+npm i fca-smart-dharmendra
 ```
 or
 ```bash
-npm install fca-smart-shankar
+npm install fca-smart-dharmendra
 ```
 
 ```bash
-npm install fca-smart-shankard@latest
+npm install fca-smart-dharmendrad@latest
 ```
 and
 ```bash
-npm i fca-smart-shankar@latest
+npm i fca-smart-DHARMENDRA@latest
 ```
 
-## SHANKAR PROJECT
+## 𝑫𝑯𝑨𝑹𝑴𝑬𝑵𝑫𝑹𝑨 PROJECT
 
 ## FACEBOOK 
 
