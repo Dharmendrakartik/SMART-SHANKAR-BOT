@@ -3,7 +3,7 @@ module.exports.config = {
   name: "EMOTIONS-EMOJI-BOT",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHANKAR SUMAN",
+  credits: "DHARMENDRA KARTIK",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "satish",
@@ -129,7 +129,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
     if ((event.body.indexOf("😌") >= 0 )) {
-     return api.sendMessage(`${name} 😌😌😌😌😌😌`, threadID, messageID);
+     return api.sendMessage(`${name} 🥰`, threadID, messageID);
    };
 
     if ((event.body.indexOf("😔") >= 0 )) {
