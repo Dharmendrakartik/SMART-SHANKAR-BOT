@@ -3,10 +3,10 @@ module.exports.config = {
   name: "EMOTIONS-EMOJI-BOT",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHANKAR SUMAN",
+  credits: "DHARMENDRA KARTIK",
   description: "goibot",
   commandCategory: "Noprefix",
-  usages: "satish",
+  usages: "DK",
   cooldowns: 5,
 }
 module.exports.handleEvent = async function({ api, event, args, Threads, Users }) {
@@ -992,7 +992,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if (event.body.indexOf("Emotion") >= 0 || (event.body.indexOf("emotion") >= 0)) {
     var msg = {
       body: `🔮${name}🔮\n\n𝗠𝗮𝘀𝘀𝗮𝗴𝗲💌 :- ${rand} \n\n                      ╔════•| ✿ |•════╗
-                      🌹      SHANKAR         🌹
+                      🌹      DHARMENDRA         🌹
                       ╚════•| ✿ |•════╝`
     }
     return api.sendMessage(msg, threadID, messageID);
