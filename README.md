@@ -1,6 +1,6 @@
-# SHANKAR PROJECT:
+# DHARMENDRA PROJECT:
 
-🎆
+💐
 
 ## Important !
 
@@ -19,7 +19,7 @@ This package require NodeJS 14.17.0 to work properly.
 Original Project(Deprecated): https://github.com/SHANKAR-PROJECT/fca-smart-shankar
 
 
-SHANKAR-PROJECT(22/11/2024)
+DHARMENDRA-PROJECT(22/11/2024)
 
 ## Support For : 
 
@@ -44,8 +44,8 @@ and
 npm i fca-smart-shankar@latest
 ```
 
-## SHANKAR PROJECT
+## DHARMENDRA PROJECT
 
 ## FACEBOOK 
 
-FACEBOOK => [Link](https://www.facebook.com/shankar.suman.98622733)
+FACEBOOK => [Link](https://www.facebook.com/share/1Ece3x7pq4/)
